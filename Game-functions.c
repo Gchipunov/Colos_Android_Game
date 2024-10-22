@@ -10,10 +10,28 @@ pUnits[i] =i ;
 }
 }
 
-drawmainmenu
+void drawmainmenu()
 
-prepareloadapp
+{
 
-drawgameupdateframe
+}
 
-endgame
+void prepareloadapp() 
+{
+
+}
+
+void drawgameupdateframe()
+{
+
+}
+
+void endgame()
+{
+
+}
+
+void showScoreScreen()
+{
+
+}
