@@ -1,6 +1,8 @@
 # Colos_Android_Game
 
 [Donate for Project]
+https://paypal.me/helpcode
+
 BTC: bc1q5w9uy5g2r5m3pjd8f7g7rv3me6u8dhx6x6vd96
 
 ETH: 0x811FE59dD693165E42dA2F2ff23C0EFcd69AD8A1
