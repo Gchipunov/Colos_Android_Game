@@ -9,3 +9,6 @@ https://youtu.be/4r_EvmPKOvY?si=0Vtpt1quoDnHX_bp
 https://m.youtube.com/watch?v=Qbs9v1W7St8&pp=QAFIAQ%3D%3D
 
 https://www.gdcvault.com/play/1022195/Physics-for-Game-Programmers-Networking?ref=mas-bandwidth.com
+
+
+Box2D islands simulation 
