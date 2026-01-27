@@ -1,5 +1,5 @@
 // quads_shade1.cpp
-//
+// Georgiy Chipunov -  Basic Quads Movement Demo, need fix if enter other than 0-9, Press CTRL+C
 // Compilation command:
 // g++ -o input_terminal_quads1 input_terminal_quads1.cpp -I/opt/vc/include -I/opt/vc/include/interface/vcos/pthreads -I/opt/vc/include/interface/vmcs_host/linux -L/opt/vc/lib -lGLESv2 -lEGL -lbcm_host -lm -lrt
 
