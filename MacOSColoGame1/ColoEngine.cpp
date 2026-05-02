@@ -15,5 +15,11 @@ void ColoEngine::buildBuffers()
 
   // 2 , 3 , 0 or 0, 2 ,3 
   };
+
+
+  // Creation (inside buildBuffers)
+_pIndexBuffer = _pDevice->newBuffer(indices.data(), 
+                                    indices.size() * sizeof(uint16_t), 
+                                    MTL::ResourceStorageModeShared);
   
 }
