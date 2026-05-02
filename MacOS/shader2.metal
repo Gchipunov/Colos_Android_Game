@@ -1,6 +1,6 @@
 #include <metal_stdlib>
 using namespace metal;
-
+// // https://github.com/amengede/getIntoMetalDev  09-textures
 // 1. Define the interface between Vertex and Fragment
 struct RasterizerData {
     float4 position [[position]]; // Required for vertex shaders
