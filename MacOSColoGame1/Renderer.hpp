@@ -2,6 +2,8 @@
 #include <Metal/Metal.hpp>
 #include <QuartzCore/CAMetalDrawable.hpp>
 
+#include "macos_platform.h"
+
 class Renderer {
 public:
     Renderer(MTL::Device* pDevice);
